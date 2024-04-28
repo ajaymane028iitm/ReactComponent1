@@ -6,10 +6,7 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Creating a component<span className="heart">♥️</span> React
         </p>
         <p>
           <a
@@ -18,7 +15,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            https://github.com/ajaymane028iitm
           </a>
         </p>
       </header>
