@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          Updating a component<span className="heart">♥️</span> React
+          Updating again a component<span className="heart">♥️</span> React
         </p>
         <p>
           <a
